@@ -1,7 +1,7 @@
 # scan-target-data #
 
-[![Build
-Status](https://travis-ci.com/cisagov/scan-target-data.svg?branch=develop)](https://travis-ci.com/cisagov/scan-target-data)
+[![GitHub Build
+Status](https://github.com/cisagov/scan-target-data/workflows/build/badge.svg)](https://github.com/cisagov/scan-target-data/actions)
 
 This is a repository for storing data used to help identify targets
 for scanning.
