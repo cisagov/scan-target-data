@@ -78,9 +78,9 @@ can create and configure the Python virtual environment with these
 commands:
 
 ```console
-cd skeleton-generic
-pyenv virtualenv <python_version_to_use> skeleton-generic
-pyenv local skeleton-generic
+cd scan-target-data
+pyenv virtualenv <python_version_to_use> scan-target-data
+pyenv local scan-target-data
 pip install -r requirements-dev.txt
 ```
 
