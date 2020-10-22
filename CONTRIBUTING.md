@@ -114,7 +114,7 @@ commands:
 cd scan-target-data
 pyenv virtualenv <python_version_to_use> scan-target-data
 pyenv local scan-target-data
-pip install --requirement requirements-dev.txt
+pip install --requirement requirements-test.txt
 ```
 
 #### Installing the pre-commit hook ####
