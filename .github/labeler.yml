@@ -32,6 +32,10 @@ github-actions:
   - changed-files:
       - any-glob-to-any-file:
           - .github/workflows/**
+javascript:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.js"
 packer:
   - changed-files:
       - any-glob-to-any-file:
@@ -54,6 +58,10 @@ test:
           - .isort.cfg
           - .mdl_config.yaml
           - .yamllint
+typescript:
+  - changed-files:
+      - any-glob-to-any-file:
+          - "**/*.ts"
 upstream update:
   - head-branch:
       # Any Lineage pull requests should use this branch.
