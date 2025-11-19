@@ -2,6 +2,8 @@
 
 [![GitHub Build
 Status](https://github.com/cisagov/scan-target-data/workflows/build/badge.svg)](https://github.com/cisagov/scan-target-data/actions)
+[![License](https://img.shields.io/github/license/cisagov/scan-target-data)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/scan-target-data/workflows/CodeQL/badge.svg)](https://github.com/cisagov/scan-target-data/actions/workflows/codeql-analysis.yml)
 
 This is a repository for storing data used to help identify targets
 for scanning.
